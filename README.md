@@ -29,7 +29,7 @@ Soy un jóven con interes por la programación. Con más de 2 años de experienc
 
 ## Contacto
 
-[![Correo Electrónico](https://skillicons.dev/icons?i=gmail)](mailto:davidmauricioflorez@gmail.com)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/davidflorez5843/)
+[![Correo Electrónico](https://skillicons.dev/icons?i=gmail)](mailto:chochosick8@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/estiven.xyz/)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o estás interesado en colaborar en proyectos, no dudes en contactarme.
