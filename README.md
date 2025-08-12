@@ -15,7 +15,7 @@ Soy un jóven con interes por la programación. Con más de 2 años de experienc
 
 | **Categoría**         | **Detalles**                                                                                                                                           |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,html&perline=5)](https://skillicons.dev)                                               |
+| **Programación**      | [![Programación](https://skillicons.dev/icons?i=java,js,html)](https://skillicons.dev)                                               |
 | **Frameworks y Librerías** | [![Frameworks y Librerías](https://skillicons.dev/icons?i=spring,dotnet,bootstrap,tailwind&perline=5)](https://skillicons.dev)              |
 | **IDE's**             | [![IDE's](https://skillicons.dev/icons?i=visualstudio,androidstudio,vs&perline=5)](https://skillicons.dev)                                             |
 | **Bases de datos**    | [![Bases de datos](https://skillicons.dev/icons?i=mysql&perline=5)](https://skillicons.dev)                                                             |
